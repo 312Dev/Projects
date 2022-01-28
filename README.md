@@ -1,7 +1,7 @@
 ###About Me###
 - 👋 Hi, I’m @da2miofficial
-- 👀 I’m interested in ...MERN, Cloud Architecture
-- 🌱 I’m currently learning ..MERN 
+- 👀 I’m interested in ...MERN Stack, Cloud Architecture
+- 🌱 I’m currently learning ..MERN  
 - 💞️ I’m looking to collaborate on ... MERN Projects, Cloud Architecture
 - 📫 How to reach me...damilolaadejobi.ad@gmail.com
 
